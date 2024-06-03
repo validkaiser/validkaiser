@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @validkaiser
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning html,java
+- 🌱 I’m currently learning html,javascript,css, bootstrap,python,mongoDb
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piquesumn@gmail.com
 
